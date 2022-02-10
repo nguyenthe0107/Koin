@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MVVM-Architecture-Android-Beginners.iml" filepath="$PROJECT_DIR$/.idea/modules/MVVM-Architecture-Android-Beginners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MVVM-Architecture-Android-Beginners.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MVVM-Architecture-Android-Beginners.app.iml" />
+    </modules>
+  </component>
+</project>
